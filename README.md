@@ -1,4 +1,4 @@
-# ![Urban Living] (internal)
+# Urban Living (internal)
 
 [![Build Status](https://semaphoreci.com/api/v1/blake-futchi/newsroom_team2_internal/branches/development/badge.svg)](https://semaphoreci.com/blake-futchi/newsroom_team2_internal)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/0192a181-71fb-4860-b376-b9110cfe3732/deploy-status)](https://app.netlify.com/sites/newsroom-team-2/deploys)
